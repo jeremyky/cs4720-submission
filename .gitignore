@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+
+# Android
+*.aab
+*.apk
+*.hprof
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+output-metadata.json
+
+# IDE
+.idea/
+*.iml
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystores
+*.jks
+*.keystore
+
+# Secrets
+local.properties
+google-services.json

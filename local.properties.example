@@ -1,0 +1,6 @@
+# Copy this file to `local.properties` and fill in your own Odds API key.
+# Get a free one at https://the-odds-api.com/  (the free tier is enough).
+#
+# `sdk.dir` is set automatically by Android Studio on first import — don't add it manually.
+
+ODDS_API_KEY=YOUR_ODDS_API_KEY_HERE
